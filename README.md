@@ -15,3 +15,5 @@ Screenshots below of the standard layout. This layout can be modified a bit to r
 ![mini](https://raw.githubusercontent.com/zearp/cog/main/mini.png)
 ## Customise
 ![customise](https://raw.githubusercontent.com/zearp/cog/main/customise.png)
+## Action Centre
+![actioncentre](https://raw.githubusercontent.com/zearp/cog/main/actioncentre.png)
